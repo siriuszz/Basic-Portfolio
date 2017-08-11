@@ -38,9 +38,13 @@ nav a {
 	font-size: 16px;
 }
 
+div.main {
+	width: 100%;    
+}
+
 div.contentarea {
 	width: 960px;
-    background-image: url("extra_clean_paper.png");
+	background-image: url("extra_clean_paper.png");
 	clear: both;
 	margin: 0 auto;
 	border-top: solid 1px #A9A9A9;
